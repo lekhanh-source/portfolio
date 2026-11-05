@@ -186,6 +186,12 @@
       "images/albums/pickleball/01.jpg",
       "images/albums/pickleball/02.jpg",
       "images/albums/pickleball/03.jpg",
+      "images/albums/pickleball/04.jpg",
+      "images/albums/pickleball/05.jpg",
+      "images/albums/pickleball/06.jpg",
+      "images/albums/pickleball/07.jpg",
+      "images/albums/pickleball/08.jpg",
+      "images/albums/pickleball/09.jpg",
     ],
 
     swimming: [
@@ -197,6 +203,7 @@
       "images/albums/swimming/05.jpg",
       "images/albums/swimming/06.jpg",
       "images/albums/swimming/07.jpg",
+      "images/albums/swimming/08.jpg",
     ],
 
     wedding: [
@@ -204,6 +211,10 @@
       "images/albums/wedding/01.jpg",
       "images/albums/wedding/02.jpg",
       "images/albums/wedding/03.jpg",
+      "images/albums/wedding/04.jpg",
+      "images/albums/wedding/05.jpg",
+      "images/albums/wedding/06.jpg",
+      "images/albums/wedding/07.jpg",
     ],
 
     yearbook: [
@@ -211,6 +222,13 @@
       "images/albums/yearbook/01.jpg",
       "images/albums/yearbook/02.jpg",
       "images/albums/yearbook/03.jpg",
+      "images/albums/yearbook/04.jpg",
+      "images/albums/yearbook/05.jpg",
+      "images/albums/yearbook/06.jpg",
+      "images/albums/yearbook/07.jpg",
+      "images/albums/yearbook/08.jpg",
+      "images/albums/yearbook/09.jpg",
+      "images/albums/yearbook/10.jpg",
     ],
 
     pre_granduation: [
@@ -218,13 +236,25 @@
       "images/albums/pre_granduation/01.jpg",
       "images/albums/pre_granduation/02.jpg",
       "images/albums/pre_granduation/03.jpg",
+      "images/albums/pre_granduation/04.jpg",
+      "images/albums/pre_granduation/05.jpg",
+      "images/albums/pre_granduation/06.jpg",
+      "images/albums/pre_granduation/07.jpg",
+      "images/albums/pre_granduation/08.jpg",
+      "images/albums/pre_granduation/09.jpg",
+      "images/albums/pre_granduation/10.jpg",
     ],
 
-   event: [
+    event: [
       "images/event.jpg",
       "images/albums/event/01.jpg",
       "images/albums/event/02.jpg",
       "images/albums/event/03.jpg",
+      "images/albums/event/04.jpg",
+      "images/albums/event/05.jpg",
+      "images/albums/event/06.jpg",
+      "images/albums/event/07.jpg",
+      "images/albums/event/08.jpg",
     ],
 
     daily: [
@@ -232,6 +262,19 @@
       "images/albums/daily/01.jpg",
       "images/albums/daily/02.jpg",
       "images/albums/daily/03.jpg",
+      "images/albums/daily/04.jpg",
+      "images/albums/daily/05.jpg",
+      "images/albums/daily/06.jpg",
+      "images/albums/daily/07.jpg",
+      "images/albums/daily/08.jpg", 
+      "images/albums/daily/09.jpg",
+      "images/albums/daily/10.jpg",
+      "images/albums/daily/11.jpg",
+      "images/albums/daily/12.jpg",
+      "images/albums/daily/13.jpg",
+      "images/albums/daily/14.jpg",
+      "images/albums/daily/15.jpg",
+      "images/albums/daily/16.jpg",
     ],
   };
 
