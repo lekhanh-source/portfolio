@@ -182,7 +182,7 @@
 
   const albums = {
     pickleball: [
-      "images/pickleball.JPG",
+      "images/albums/pickleball.JPG",
       "images/albums/pickleball/01.JPG",
       "images/albums/pickleball/02.JPG",
       "images/albums/pickleball/03.JPG",
@@ -195,7 +195,7 @@
     ],
 
     swimming: [
-      "images/swimming.JPG",
+      "images/albums/swimming.JPG",
       "images/albums/swimming/01.JPG",
       "images/albums/swimming/02.JPG",
       "images/albums/swimming/03.JPG",
@@ -207,7 +207,7 @@
     ],
 
     wedding: [
-      "images/wedding.JPG",
+      "images/albums/wedding.JPG",
       "images/albums/wedding/01.JPG",
       "images/albums/wedding/02.JPG",
       "images/albums/wedding/03.JPG",
@@ -218,7 +218,7 @@
     ],
 
     yearbook: [
-      "images/yearbook.JPG",
+      "images/albums/yearbook.JPG",
       "images/albums/yearbook/01.JPG",
       "images/albums/yearbook/02.JPG",
       "images/albums/yearbook/03.JPG",
@@ -232,7 +232,7 @@
     ],
 
     pre_granduation: [
-      "images/pre_granduation.JPG",
+      "images/albums/pre_granduation.JPG",
       "images/albums/pre_granduation/01.JPG",
       "images/albums/pre_granduation/02.JPG",
       "images/albums/pre_granduation/03.JPG",
@@ -246,7 +246,7 @@
     ],
 
     event: [
-      "images/event.JPG",
+      "images/albums/event.JPG",
       "images/albums/event/01.JPG",
       "images/albums/event/02.JPG",
       "images/albums/event/03.JPG",
@@ -258,7 +258,7 @@
     ],
 
     daily: [
-      "images/daily.JPG",
+      "images/albums/daily.JPG",
       "images/albums/daily/01.JPG",
       "images/albums/daily/02.JPG",
       "images/albums/daily/03.JPG",
